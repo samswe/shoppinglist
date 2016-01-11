@@ -1,0 +1,3 @@
+# shoppinglist
+git init
+shoppinglist
